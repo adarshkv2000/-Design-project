@@ -1,0 +1,30 @@
+
+section {
+	width: 910px; 
+	float: left;
+	height: 550px;
+	background: lavender;
+	margin:30px;
+ 
+}
+
+.topnav {
+ background-color: lightgreen;
+ overflow:hidden;
+ }
+.topnav a {
+ float: left;
+ color: #f2f2f2;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 17px;
+}
+.topnav a:hover {
+ background-color: #ddd;
+ color: black;
+}
+.topnav a.active {
+ background-color: #4CAF50;
+ color: white;
+}
